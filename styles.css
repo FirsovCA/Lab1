@@ -1,0 +1,29 @@
+html {
+    font-family: Georgia, serif;
+}
+
+h1, h3 {
+    font-family: Impact, sans-serif;
+    color: rgb(138, 43, 43);
+    text-align: center;
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.image {
+    display: block;
+    width: 180px;
+    height: 180px;
+    margin: 30px auto;
+}
+
+.paragraph {
+    font-size: 18px;
+}
+
+.description {
+    font-size: 12px;
+}
